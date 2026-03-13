@@ -26,7 +26,9 @@ Email Me 👉 ✉️ **sagark749200@gmail.com** For Jobs/Project or Anything Els
 </div>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-datascience) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagark749200@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-datascience)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagark749200@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white)](https://portfolio-sagar-v2.vercel.app/)
 
 
 
